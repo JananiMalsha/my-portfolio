@@ -145,7 +145,7 @@ function Hero() {
           <b>I am a dedicated Software Engineering student who enjoys creating modern web
           applications and learning new technologies every day.</b>
         </p>
-        <a href="#" className="btn">Download CV</a>
+        <a href="/cv.pdf" download className="btn">Download CV</a>
       </div>
       <div className="hero-img">
         <div className="hexagon">
@@ -184,7 +184,8 @@ function About() {
             <p>2022 | Sujatha Vidyalaya</p>
           </div>
         </div>
-        <a href="#" className="btn">Read More</a>
+      
+      <a href="#myprojects" className="btn">Read More</a>
       </div>
     </section>
   );
@@ -222,7 +223,7 @@ const projectsList = [
     img: "Images/Youtube clone.png",
     title: "YouTube Clone",
     desc: "A responsive YouTube clone UI built using HTML and CSS.",
-    link: "#",
+    link: "https://github.com/JananiMalsha/Youtube-Clone",
   },
 ];
 
