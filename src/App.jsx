@@ -145,7 +145,7 @@ function Hero() {
           <b>I am a dedicated Software Engineering student who enjoys creating modern web
           applications and learning new technologies every day.</b>
         </p>
-        <a href="/cv.pdf" download className="btn">Download CV</a>
+        <a href="/CV.pdf" download className="btn">Download CV</a>
       </div>
       <div className="hero-img">
         <div className="hexagon">
